@@ -2,6 +2,8 @@
 
 Use this guide to plan your workload migrations to Azure.
 
+An organization needs to determine what outcomes and value they will get from moving workloads to the cloud. Determining that will help to define which workloads will go to the cloud and how to prioritize them through a program of change or roadmap. Having defined the Cloud strategy and goals, an organization is ready to initiate the process of assessing those workloads for suitability and deployment to the cloud.
+
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
 
 - xxx
