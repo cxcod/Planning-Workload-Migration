@@ -16,14 +16,16 @@ The content in this guide is appropriate for use by (but not strictly limited to
 <br />
 Use the following sections to plan your Azure Workload migrations:
 
-  - [Defining a Cloud Migration Strategy](add link): Use the guidance and procedures in this section to use the tools to define your workload migration strategy.
+  - [Defining a Cloud Migration Strategy](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/1.0-Defining-a-Cloud-Strategy.md): Use the guidance and procedures in this section to use the tools to define your workload migration strategy.
 
-  - [Categorizing your Portfolio](add link):  Use the guidance and procedures in this section to use the tools to categorize your workload migration portfolio. 
+  - [Categorizing your Portfolio](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/2.0-Categorizing-your-Portfolio.md):  Use the guidance and procedures in this section to use the tools to categorize your workload migration portfolio. 
   
-  - [Building the Business Case](add link) Use the guidance and procedures in this section to use the tools to build your workload migration business case.
+  - [Building the Business Case](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/3.0-Building-the-Business-Case.md) Use the guidance and procedures in this section to use the tools to build your workload migration business case.
   
-  - [Program of Change and Program Management](add link) Use the guidance and procedures in this section to use the tools to develop your workload migration Program of Change and Program Management.
+  - [Defining the Program of Change](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/4.0-Defining-the-Program-of-Change.md) Use the guidance and procedures in this section to use the tools to develop your workload migration Program of Change and Program Management.
+  
+  - [Program Management](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/5.0-Managing-the-Program.md) Use the guidance and procedures in this section to use the tools to mange your Workload Migration Program.
 
 ## Next steps
 
-[Defining a Cloud Migration Strategy](add link)
+[Defining a Cloud Migration Strategy](https://github.com/alvarovitta/Planning-Workload-Migration/blob/master/1.0-Defining-a-Cloud-Strategy.md)
