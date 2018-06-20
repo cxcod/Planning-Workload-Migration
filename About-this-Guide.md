@@ -6,9 +6,9 @@ An organization needs to determine what outcomes and value they will get from mo
 
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
 
-- xxx
-- xxx
-- xxx
+- Application Owners
+- Cloud Solution Architects
+- Business analysts
 - xxx
 - xxx
 - xxx
